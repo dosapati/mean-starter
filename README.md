@@ -1,7 +1,7 @@
 # mean-starter using token-based-auth-backend
 ========================
 
-MEAN stack starter project using Token Based Authentication Backend Project Written in NodeJS.
+MEAN stack starter project using Token Based Authentication backend Project Written in NodeJS.
 
 > This project doesn't follow `http://mean.io` standard way of creating a project. 
 
